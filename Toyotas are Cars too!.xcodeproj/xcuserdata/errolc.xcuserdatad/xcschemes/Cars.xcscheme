@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D1C524CF1EE29FB40032D206"
-               BuildableName = "Cars"
-               BlueprintName = "Cars"
-               ReferencedContainer = "container:Cars.xcodeproj">
+               BuildableName = "Toyotas are cars too!"
+               BlueprintName = "Toyotas are cars too!"
+               ReferencedContainer = "container:Toyotas are Cars too!.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D1C524CF1EE29FB40032D206"
-            BuildableName = "Cars"
-            BlueprintName = "Cars"
-            ReferencedContainer = "container:Cars.xcodeproj">
+            BuildableName = "Toyotas are cars too!"
+            BlueprintName = "Toyotas are cars too!"
+            ReferencedContainer = "container:Toyotas are Cars too!.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D1C524CF1EE29FB40032D206"
-            BuildableName = "Cars"
-            BlueprintName = "Cars"
-            ReferencedContainer = "container:Cars.xcodeproj">
+            BuildableName = "Toyotas are cars too!"
+            BlueprintName = "Toyotas are cars too!"
+            ReferencedContainer = "container:Toyotas are Cars too!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D1C524CF1EE29FB40032D206"
-            BuildableName = "Cars"
-            BlueprintName = "Cars"
-            ReferencedContainer = "container:Cars.xcodeproj">
+            BuildableName = "Toyotas are cars too!"
+            BlueprintName = "Toyotas are cars too!"
+            ReferencedContainer = "container:Toyotas are Cars too!.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		D1C524D01EE29FB40032D206 /* Cars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Cars; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1C524D01EE29FB40032D206 /* Toyotas are cars too! */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Toyotas are cars too!"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1C524D31EE29FB40032D206 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D1C524DA1EE29FE40032D206 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
 		D1C524DB1EE29FE40032D206 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		D1C524D11EE29FB40032D206 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D1C524D01EE29FB40032D206 /* Cars */,
+				D1C524D01EE29FB40032D206 /* Toyotas are cars too! */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -75,9 +75,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D1C524CF1EE29FB40032D206 /* Cars */ = {
+		D1C524CF1EE29FB40032D206 /* Toyotas are cars too! */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D1C524D71EE29FB40032D206 /* Build configuration list for PBXNativeTarget "Cars" */;
+			buildConfigurationList = D1C524D71EE29FB40032D206 /* Build configuration list for PBXNativeTarget "Toyotas are cars too!" */;
 			buildPhases = (
 				D1C524CC1EE29FB40032D206 /* Sources */,
 				D1C524CD1EE29FB40032D206 /* Frameworks */,
@@ -87,9 +87,9 @@
 			);
 			dependencies = (
 			);
-			name = Cars;
+			name = "Toyotas are cars too!";
 			productName = Cars;
-			productReference = D1C524D01EE29FB40032D206 /* Cars */;
+			productReference = D1C524D01EE29FB40032D206 /* Toyotas are cars too! */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -107,7 +107,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D1C524CB1EE29FB40032D206 /* Build configuration list for PBXProject "Cars" */;
+			buildConfigurationList = D1C524CB1EE29FB40032D206 /* Build configuration list for PBXProject "Toyotas are Cars too!" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -119,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D1C524CF1EE29FB40032D206 /* Cars */,
+				D1C524CF1EE29FB40032D206 /* Toyotas are cars too! */,
 			);
 		};
 /* End PBXProject section */
@@ -244,7 +244,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D1C524CB1EE29FB40032D206 /* Build configuration list for PBXProject "Cars" */ = {
+		D1C524CB1EE29FB40032D206 /* Build configuration list for PBXProject "Toyotas are Cars too!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D1C524D51EE29FB40032D206 /* Debug */,
@@ -253,13 +253,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D1C524D71EE29FB40032D206 /* Build configuration list for PBXNativeTarget "Cars" */ = {
+		D1C524D71EE29FB40032D206 /* Build configuration list for PBXNativeTarget "Toyotas are cars too!" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D1C524D81EE29FB40032D206 /* Debug */,
 				D1C524D91EE29FB40032D206 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
